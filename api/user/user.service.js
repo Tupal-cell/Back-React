@@ -9,7 +9,7 @@ module.exports = {
                 data.lastName, 
                 data.gender, 
                 data.email, 
-                data.passWord, 
+                data.password, 
                 data.tel
             ],
             (error,results,fields) => {

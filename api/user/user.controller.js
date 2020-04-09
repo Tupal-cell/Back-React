@@ -1,4 +1,4 @@
-const {create} = require("./user.service");
+const { create } = require("./user.service");
 
 const { genSaltSync, hashSync } = require("bcrypt");
 
